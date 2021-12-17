@@ -1,0 +1,24 @@
+Sample input:
+
+5
+7
+1 2 2
+1 3 3
+2 3 4
+2 4 7
+2 5 9
+3 5 1
+4 5 8
+compile using gcc compiler
+run the code
+keep giving inputs as asked
+wait for the output
+hope you liked it
+2
+liked
+
+Sample (corresponding) output:
+
+Optimal hall-ID: 5
+Distance to hall: 5
+Path to hall: 2 -> 3 -> 5
