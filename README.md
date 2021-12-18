@@ -10,3 +10,6 @@ To run the program follow the steps:
 * Enter the current hall id (1,2,..,n)
 * Enter a string denoting the string you are searching for
 * The required output will be generated
+
+## Example
+![image](https://user-images.githubusercontent.com/58428413/146630236-f46b7f98-f6c8-41da-ab88-7cab6df7cc52.png)
